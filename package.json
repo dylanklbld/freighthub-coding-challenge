@@ -1,0 +1,28 @@
+{
+  "name": "freighthub-coding-challenge",
+  "version": "1.0.0",
+  "description": "Repository with back-end coding challenge from Freighthub",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanklbld/freighthub-coding-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanklbld/freighthub-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/dylanklbld/freighthub-coding-challenge#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.15",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.5.2"
+  }
+}
